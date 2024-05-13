@@ -729,7 +729,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 21447e50c3ab1634ca1e5a52804a8290, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  spawnRadius: 40
+  _spawnRadius: 30
   _cubePrefab: {fileID: 1896387341020470772, guid: 490e90c1e574a7f4b8a090579dfc97d1, type: 3}
 --- !u!1 &1440631174
 GameObject:
